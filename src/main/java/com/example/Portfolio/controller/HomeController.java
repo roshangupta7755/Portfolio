@@ -38,7 +38,7 @@ public class HomeController {
                 "https://www.linkedin.com/in/roshan-gupta-rg7755");
 
         // ---- Resume ----
-        model.addAttribute("resumeUrl", "https://drive.google.com");
+        model.addAttribute("resumeUrl", "https://drive.google.com/file/d/1_fBQ0bqkH5I01NsuN0CX0wye5jXkplrg/view?usp=drive_link");
 
         // ---- Skills ----
 
