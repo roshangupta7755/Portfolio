@@ -1,0 +1,1 @@
+Docker ek tool hai jo aapki application ko uski required dependencies ke saath ek package mein run karne mein help karta hai. Is package ko Container kehte hain.
